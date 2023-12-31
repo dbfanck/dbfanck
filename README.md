@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi I'm dbfanck 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=handbear0903)](https://solved.ac/handbear0903/)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdbfanck%2Fhit-counter&count_bg=%23599FD9&title_bg=%231C5789&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **dbfanck/dbfanck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
