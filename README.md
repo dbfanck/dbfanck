@@ -17,9 +17,15 @@
 <!-- 백준 -->
 <h3 align=center>Baekjoon</h3>
 <div align=center>
-
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=handbear0903)](https://solved.ac/handbear0903/)
 
+</div>
+
+<div>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/dbfanck?pet-id=723024604042997332" width="1000" height="120"/>
+  </a>
 </div>
 
 <!--
